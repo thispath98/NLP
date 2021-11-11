@@ -13,3 +13,7 @@
 
 ## 공부 자료
 * [[Techtonic 2020] Track 1. AI의 한국어 이해, 어디까지 왔나?(KorQuAD 1.0성능개선 Know-how) - 이현제 프로](https://youtu.be/ovD_87gHZO4) - KorQuAD 및 삼성 SDS의 KoreALBERT에 대한 설명. ALBERT는 A Lite BERT의 줄임말이며, 다른 ALBERT 모델도 존재한다.
+
+* [고려대학교 산업경영공학부 DSBA 연구실 강의](https://youtu.be/IwtexRHoWG0) - BERT의 개념을 쉽게 이해할 수 있는 강의
+
+* [T아카데미 온라인 강의- [토크ON세미나] 자연어 언어모델 ‘BERT’ (총5강)](https://youtube.com/playlist?list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD) - BERT 개념을 비롯한 자연어 처리의 개념과 실제 BERT를 실습할 수 있다.
