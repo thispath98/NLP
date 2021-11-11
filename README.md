@@ -9,3 +9,7 @@
 * [GLUE의 CoLA dataset 실습](https://github.com/thispath98/NLP/blob/main/BERT/BERT_CoLA_of_GLUE.ipynb)
 * [KoBERT를 이용한 다중 분류 모델](https://github.com/thispath98/NLP/blob/main/BERT/KoBERT_multinomial_classifier.ipynb)
 * [모두의 말뭉치 문장 문법성 판단 실습](https://github.com/thispath98/NLP/blob/main/BERT/BERT_modoo_corpus_sentence_acceptability.ipynb)
+
+
+## 공부 자료
+* [[Techtonic 2020] Track 1. AI의 한국어 이해, 어디까지 왔나?(KorQuAD 1.0성능개선 Know-how) - 이현제 프로](https://youtu.be/ovD_87gHZO4) - KorQuAD 및 삼성 SDS의 KoreALBERT에 대한 설명. ALBERT는 A Lite BERT의 줄임말이며, 다른 ALBERT 모델도 존재한다.
