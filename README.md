@@ -11,7 +11,7 @@
 - [GLUE의 CoLA dataset 실습](https://github.com/thispath98/NLP/blob/main/BERT/BERT_CoLA_of_GLUE.ipynb)
 - [KoBERT를 이용한 다중 분류 모델](https://github.com/thispath98/NLP/blob/main/BERT/KoBERT_multinomial_classifier.ipynb)
 - [모두의 말뭉치 문장 문법성 판단 실습](https://github.com/thispath98/NLP/blob/main/BERT/BERT_modoo_corpus_sentence_acceptability.ipynb)
-- [KoBERT*nsmc*실습](https://github.com/thispath98/NLP/blob/main/BERT/KoBERT_nsmc_practice.ipynb)
+- [KoBERT-nsmc 실습](https://github.com/thispath98/NLP/blob/main/BERT/KoBERT_nsmc_practice.ipynb)
 
 ## 공부 자료
 
