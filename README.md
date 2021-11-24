@@ -26,3 +26,11 @@
 -   [고려대학교 산업경영공학부 DSBA 연구실 강의](https://youtu.be/IwtexRHoWG0) - BERT의 개념을 쉽게 이해할 수 있는 강의
 
 -   [T아카데미 온라인 강의- [토크ON세미나] 자연어 언어모델 ‘BERT’ (총5강)](https://youtube.com/playlist?list=PL9mhQYIlKEhcIxjmLgm9X5BUtW5jMLbZD) - BERT 개념을 비롯한 자연어 처리의 개념과 실제 BERT를 실습할 수 있다.
+
+## Reference
+
+-   [NLP Paper](https://github.com/changwookjun/nlp-paper)
+
+-   [NLP tutorial](https://github.com/lyeoni/nlp-tutorial)
+
+-   [awesome papers](https://github.com/huggingface/awesome-papers)
