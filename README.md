@@ -15,9 +15,9 @@
 
 ---
 
-## Hugging Face
+## Seq2Seq
 
--   [Question_Answering_on_SQUAD](https://github.com/thispath98/NLP/blob/main/BERT/Question_Answering_on_SQUAD.ipynb)
+-   [Seq2Seq_with_Attention_Machine_Translation](https://github.com/thispath98/NLP/blob/main/Seq2Seq/Seq2Seq_with_Attention_Machine_Translation.ipynb)
 
 ## 공부 자료
 
